@@ -1,0 +1,639 @@
+   50  cd RICE-FINTECH-02_Challenge
+   51  touch app.py
+   52  mkdir data
+   53  mkdir qualifiers
+   54  cd qualifiers
+   55  mkdir filters
+   56  mkdir utils
+   57  cd '/Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-FINTECH-ATM_app'
+   58  npm run generate
+   59  pwd 
+   60  cd ..
+   61  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge
+   62  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/01_Challenge
+   63  conda activate dev
+   64  python loan_analyzer.py
+   65  conda activate dev
+   66  python loan_analyzer.py
+   67  /usr/local/bin/python3
+   68  python3 loan_analyzer.py
+   69  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge/loan_qualifier_app
+   70  python3 app.py
+   71  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge
+   72  git status
+   73  git add -A
+   74  git status
+   75  git commit -m "imported challenge files into repository. Started working on save_qualifying_loans; added questionary input, and writing structure to save data into CSV file."
+   76  git status
+   77  git push
+   78  cd loan_qualifier_app
+   79  python3 app.py
+   80  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge
+   81  history 50 > terminal_history.txt
+   82  python3 app.py
+   83  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge/loan_qualifier_app
+   84  python3 app.py
+   85  conda deactivate
+   86  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge
+   87  history 50 > terminal_history.txt
+   88  git status 
+   89  git add -A
+   90  git status
+   91  git commit -m "Wrote out the README to explain the program and its uses and requirements. Edited save_qualifying_loans function to add additional usability with asking if they want to save and to check if a qualifying loans exist."
+   92  git push
+   93  history 50 > terminal_history.txt
+   94  git add - A
+   95  git add -A
+   96  git commit -m "Created a new terminal_history.txt to reflect most recent changes"
+   97  git push origin main
+   98  conda activate dev
+   99  jupyter lab
+  100  cd/Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Practice
+  101  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Practice
+  102  jupyter lab
+  103  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B-main
+  104  conda deactivate
+  105  mkdir 03-Financial-Analysis-with-Pandas
+  106  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Practice
+  107  conda activate dev
+  108  jupyter lab
+  109  conda activate dev
+  110  jupyter lab
+  111  conda deactivate
+  112  conda activate dev
+  113  jupyter lab
+  114  pwd
+  115  cd Desktop/FinTech-Workspace
+  116  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-02_Challenge
+  117  /usr/local/bin/python3
+  118  cd loan_qualifier_app
+  119  conda activate dev
+  120  python app.py
+  121  conda activate dev
+  122  python app.py
+  123  cd Module_Challenges/RICE-FINTECH-02_Challenge
+  124  conda activate dev
+  125  python app.py
+  126  cd loan_qualifier_app
+  127  python app.py
+  128  pip install fire
+  129  pip install questionary
+  130  python app.py
+  131  cd ..
+  132  git status
+  133  cd loan_qualifier_app
+  134  python app.py
+  135  cd ..
+  136  history 50 > terminal_history.txt
+  137  git status
+  138  git add -A
+  139  git commit -m "Added save_csv function, cleaned up comments and save_qualifying_loans function"
+  140  git push
+  141  history 50 > terminal_history.txt
+  142  git commit -m "added updated terminal history document"
+  143  git add -A
+  144  git commit -m "Added updated terminal history document"
+  145  git push origin main
+  146  cd .. 
+  147  cd ..
+  148  git pull https://github.com/Rishi-Prasadha/RICE-FINTECH-03_Challenge.git
+  149  git clone https://github.com/Rishi-Prasadha/RICE-FINTECH-03_Challenge.git
+  150  mv FinTech-Workspace/RICE-FINTECH-03_Challenge FinTech-Workspace/Module_Challenge/RICE-FINTECH-03_Challenge
+  151  cd Module_Challenges/RICE-FINTECH-03_Challenge/Starter_Code-4
+  152  conda activate dev
+  153  jupyter lab
+  154  cd ..
+  155  git status
+  156  git add -A
+  157  git commit -m "Worked on Crypto Arbitrage file until Step 4, moved starter code file into repository."
+  158  git push origin main
+  159  git status
+  160  git add -A
+  161  git commit -m "Built out the outline of the README. Need to add additional details later."
+  162  git push origin main
+  163  conda activate dev
+  164  jupyter lab
+  165  cd ..
+  166  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B-main/03-Financial-Analysis-with-Pandas/2/02-Stu_Indexing_Loans
+  167  conda activate dev
+  168  jupyter lab
+  169  conda deactivate
+  170  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-03_Challenge
+  171  conda activate dev
+  172  jupyter lab
+  173  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B-main/03-Financial-Analysis-with-Pandas/2/04-Stu_Markets_and_DateTime
+  174  jupyter lab
+  175  cd Module_Challenges/RICE-FINTECH-03_Challenge
+  176  cd Starter-Code_4
+  177  cd Starter_Code-4
+  178  jupyter lab
+  179  npm run generate
+  180  conda activate dev
+  181  jupyter lab
+  182  cd .. 
+  183  cd ..
+  184  cd Module_Pracitce
+  185  cd Module_Practice
+  186  mkdir Module_04
+  187  cd Module_04
+  188  conda activate dev
+  189  jupyter lab
+  190  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B-main/04-Quantative-Analysis-with-Pandas/1/Activities
+  191  conda activate dev
+  192  jupyter lab
+  193  cd '/Users/RishiPrasadha/Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-03_Challenge'
+  194  git status
+  195  git add -A
+  196  git commit -m "Created the analysis report in .ipynb file. Edited README to reflect class requirements. Polished analysis so early, middle and late calculations have their own cells."
+  197  git push origin main
+  198  history 50 > terminal_history.txt
+  199  git add -A
+  200  git commit -m "Added terminal history text file"
+  201  git push origin main
+  202  git add -A
+  203  git commit -m "Final edits and touches to .ipynb file"
+  204  git push origin main
+  205  cd ..
+  206  cd Module_Challenges
+  207  cd ..
+  208  cd Module_Challenges
+  209  git clone https://github.com/Rishi-Prasadha/RICE-FINTECH-04_Challenge.git
+  210  cd Module_Challenges/RICE-FINTECH-04_Challenge
+  211  git status
+  212  git add -A
+  213  git commit -m "Began working on assignment, halfway through." 
+  214  git push origin main
+  215  git add -A
+  216  git commit -m "80% finished with assignment. Beta calculations are incorrect, need to fix."
+  217  git push origin main
+  218  cd test_repo
+  219  cd ..
+  220  git pull git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-06-2022-U-B.git
+  221  git clone git@rice.bootcampcontent.com:Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-06-2022-U-B.git
+  222  git clone fb_df = pd.read_csv(Path("../Resources/fb_data.csv"),\n                    index_col="date",\n                    parse_dates=True,\n                    infer_datetime_format=True)
+  223  https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-06-2022-U-B.gi
+  224  git clone https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-06-2022-U-B.git
+  225  cd ..
+  226  git clone https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RICE-VIRT-FIN-PT-06-2022-U-B.git
+  227  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  228  git pull origin main
+  229  cd ..
+  230  cd Module_Challenges
+  231  cd RICE-FINTECH-04_Challenge
+  232  git status
+  233  git commit -A
+  234  git commit -a
+  235  git add -a
+  236  git commit -m "Wrote out the README. Finished the rest of the code, answered the questions throughout the notebooks.\nStill need to go over final checks."
+  237  git add -A
+  238  git commit -m "Wrote out the README. Finished the rest of the code, answered the questions throughout the notebooks.\nStill need to go over final checks."\n
+  239  git push origin main
+  240  npm run generate
+  241  pwd
+  242  cd Desktop/FinTech-Workspace
+  243  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  244  git pull 
+  245  cd ../Module_Challenges
+  246  mkdir Module_5
+  247  ls
+  248  rm Module_5
+  249  cd ..
+  250  cd Module_Practice/Module_5
+  251  conda activate dev
+  252  jupyter lab
+  253  cd Unsolved
+  254  cd 01_Set_Up_a_Quandl_API_Key/Unsolved
+  255  touch .env
+  256  ls
+  257  jupyter lab --ContentsManager.allow_hidden=True
+  258  npm install dotenv --save
+  259  cd ~
+  260  cd Desktop/FinTech-Workspace
+  261  npm install dotenv --save
+  262  cd Module_Practice/Module_5/01_Set_Up_a_Quandl_API_Key
+  263  jupyter lab ContentsManager.allow_hidden=True
+  264  jupyter lab
+  265  conda activate dev
+  266  npm install dotenv --save
+  267  cd ..
+  268  conda list requests
+  269  conda list json
+  270  conda install -c jmcmurray json
+  271  conda insstall python-dotenv
+  272  conda install python-dotenv
+  273  pip install python-dotenv
+  274  pip install alpaca-trade-api
+  275  conda list python-pythondotenv
+  276  pip install python-dotenv
+  277  pip install --upgrade pip
+  278  pip list | grep -E "python-dotenv|alpaca-trade-api"
+  279  conda activate dev
+  280  pip install python-dotenv
+  281  conda activate dev
+  282  pip install alpaca-trade-api
+  283  conda deactivate
+  284  conda deactiavte
+  285  conda deactivate
+  286  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  287  git pull
+  288  git pull 
+  289  cd Module_Challenges/RICE-FINTECH-04_Challenge
+  290  git add -A
+  291  git commit -m "Answered the rest of the questions, edited standard deviation plots"
+  292  git push origin main
+  293  history 50 > terminal_history.txt
+  294  git add -A
+  295  git commit -m "Added terminal history text"
+  296  git push origin main
+  297  cd ..
+  298  cd Module_Challenges
+  299  git clone https://github.com/Rishi-Prasadha/RICE-FINTECH-05_Challenge.git
+  300  cd RICE-FINTECH-05
+  301  RICE-FINTECH-05_Challenge
+  302  cd ../RICE-FINTECH-05_Challenge
+  303  u = u'hello\u2013world'
+  304  git status
+  305  git add -a
+  306  git add -all
+  307  git add -A
+  308  git commit -m "Finished the workbook, need to check results and answer questions."
+  309  git push origin main
+  310  cd ..
+  311  cd ../RICE-VIRT-FIN-PT-06-2022-U-B
+  312  git pull 
+  313  git pull origin main
+  314  conda activate dev
+  315  cd ..
+  316  pip3 install alpaca-trade-api
+  317  git pull
+  318  cd .. 
+  319  cd Module_Challenges/RICE-FINTECH-05_Challenge
+  320  conda actiavte dev
+  321  jupyter lab
+  322  conda activate dev
+  323  jupyter lab
+  324  cd .. 
+  325  cd ..
+  326  conda activate dev
+  327  pip install -c pyviz hvplot geoview
+  328  conda install -c pyviz hvplot geoview
+  329  conda3 install -c pyviz hvplot geoview
+  330  conda install -c pyviz hvplot geoviews
+  331  conda activate dev
+  332  conda install -c pyviz hvplot geoview
+  333  conda list hvplot
+  334  conda list geoview
+  335  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  336  git pull
+  337  cd ..
+  338  cd RICE-VIRT-FIN-PT-06-2022-U-B-LOCAL
+  339  mkdir 06-
+  340  cd ..
+  341  mkdir LearnwithLeon-Workspace
+  342  cd FinTech-Workspace
+  343  conda activate dev
+  344  conda list alpaca
+  345  cd Module_Challenges
+  346  cd RICE-FINTECH-05_Challenge
+  347  git status
+  348  git add -A
+  349  git commit -m "Built out the README"
+  350  git push origin main
+  351  cd ..
+  352  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  353  git pull
+  354  cd ..
+  355  cd Module_Challenges/RICE-FINTECH-05_Challenge
+  356  git commit -m "Fixed the unicode error in .env file. Corrected some code in main workbook, everything running smoothly."
+  357  git add -A
+  358  git commit -m "Fixed the unicode error in .env file. Corrected some code in main workbook, everything running smoothly."
+  359  git push origin main
+  360  cd ..
+  361  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  362  git pull
+  363  conda activate dev
+  364  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B/06-Data-Visualization-with-PyViz/1/Activities/03-Stu_Plotting_Visual_Takeover
+  365  cd /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B-LOCAL/06-Data-Visualization-with-PyViz/1/Activities/03-Stu_Plotting_Visual_Takeover
+  366  jupyter lab
+  367  cd ..
+  368  cd Module_Challenges
+  369  cd ..
+  370  cd Module_Practice/Module_06
+  371  conda activate dev
+  372  jupyter lab
+  373  cd ..
+  374  cd Module_Challenges/RICE-FINTECH-05_Challenge
+  375  git add -A
+  376  fit commit -m "Final edits and additions, ready to be submitted."
+  377  git push origin main
+  378  terminal 50 > terminal_history.txt
+  379  history 50 > terminal_history.txt
+  380  git commit -m "Added a terminal history text file"
+  381  git push origin main
+  382  cd ..
+  383  git clone https://github.com/Rishi-Prasadha/RICE-FINTECH-06_Challenge.git
+  384  cd ..
+  385  cd Module_Challenges/RICE-FINTECH-06_Challenge
+  386  git status
+  387  git add -A
+  388  git commit -m "Added starter code, finished most of the assignment, need to answer final questions and README"
+  389  git push origin main
+  390  cd ..
+  391  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  392  git pull
+  393  cd .. 
+  394  conda activate dev
+  395  conda list ssqlalchemy
+  396  conda list sqlalchemy
+  397  conda install -c conda-forge voila
+  398  conda list voila
+  399  conda deactivate
+  400  cd Module_Challenges
+  401  mkdir Module_07
+  402  cd RICE-FINTECH-06_Challenge
+  403  conda activate dev
+  404  jupyter lab
+  405  git status
+  406  git commit -m "Added a README, answered last few questions"
+  407  git add -a
+  408  git add -A
+  409  git commit -m "Added a README, answered last few questions"
+  410  git push origin main
+  411  history 50 > terminal_history.txt
+  412  git commit -A
+  413  git commit -a
+  414  git add -a
+  415  git add -A
+  416  git commit -A
+  417  git commit -m "Added a terminal history text file"
+  418  git push origin main
+  419  cd ..
+  420  git clone https://github.com/Rishi-Prasadha/RICE-FINTECH-07_Challenge.git
+  421  cd Module_Practice
+  422  cd RICE-FINTECH-07
+  423  RICE-FINTECH-07_Challenge
+  424  git add -A
+  425  git commit -m 
+  426  git commit -m "Finished most of the assignment, need to fix bugs, add README"
+  427  git push origin main
+  428  cd ..
+  429  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  430  git pull
+  431  cd ..
+  432  mkdir RICE-Projects
+  433  cd RICE-Projects
+  434  git clone https://github.com/Rishi-Prasadha/FinTech_Funding_Application.git
+  435  cd FinTech_Funding_Application
+  436  git checkout rishi
+  437  git checkout -b rishi
+  438  git checkout main
+  439  git checkout -b quinn
+  440  git checkout main
+  441  git checkout -b brittanie
+  442  git checkout main
+  443  git checkout rishi
+  444  touch test.py
+  445  pwed
+  446  pwd
+  447  cd Desktop/FinTech-Workspace
+  448  cd RICE-Projects
+  449  cd FinTech_Funding_Application
+  450  ls
+  451  git add -A
+  452  git commit -m "Added a test file"
+  453  git push origin rishi
+  454  touch data_analysis.ipynb
+  455  mkdir Resources
+  456  touch zillow_data_analysis
+  457  touch zillow_data_analysis.ipynb
+  458  gitstatus
+  459  git status
+  460  git add -A
+  461  git commit -m "Added Zillow and Airbnb datasets, began data cleaning and analysis on both sets. Cleaned Zillow data for Austin"
+  462  git push origin rishi
+  463  git add -A
+  464  git commit -m "Cleaned up Zillow data to create baseline df with zipcode as header and dates as indices"
+  465  git push origin rishi
+  466  conda ativate dev
+  467  conda activate dev
+  468  pip install voila
+  469  conda list voila
+  470  cd ..
+  471  voila Module_Challenges/RICE-FINTECH-07_Challenge/Starter_Code-4/etf_analyzer.ipynb
+  472  cd Desktop/FinTech-Workspace/Module_Challenges/RICE-FINTECH-07_Challenge/Starter_Code-4
+  473  conda activate dev
+  474  voila etf_analyzer.ipynb
+  475  cd ../..
+  476  cd RICE-FINTECH-07_Challenge
+  477  git status
+  478  git add -A
+  479  git commit -m "Added the README, fixed errors, finished assignment"
+  480  git push origin main
+  481  cd ..
+  482  cd RICE-Projects/FinTech_Funding_Application
+  483  git status
+  484  git add -A
+  485  git commit -m "Fitted exponential regression, created dataframe with zip code and intercepts for Zillow data"
+  486  git push origin rishi
+  487  git status
+  488  git add -A
+  489  git commit -m "Validated the exponential regression model, got experimental vs data values dataframe set up."
+  490  git push origin rishi
+  491  git status
+  492  git add -A
+  493  git commit -m 'Added linear regression analysis to the document. Comparing exponential and linear regression with percent change"
+  494  git commit -m 'Added linear regression analysis to the document. Comparing exponential and linear regression with percent change'
+  495  git push origin rishi
+  496  git add -A
+  497  git commit -m "Added conclusion and added some comments"
+  498  git push origin rishi
+  499  git status
+  500  git add -A
+  501  git commit -m "Added comments to zillow, added analysis and markdown comments"
+  502  git push origin rishi
+  503  touch app.py
+  504  mkdir utils
+  505  cd utils
+  506  touch utils.py
+  507  touch fileio.py
+  508  touch calculations.py
+  509  cd ..
+  510  git status
+  511  git add -A
+  512  git commit -m "Added app.py and utils folder for aibnb app"
+  513  git push origin rishi
+  514  git status
+  515  cd RICE-Projects/FinTech_Funding_Application
+  516  git checkout britt
+  517  git switch britt
+  518  git checkout Britt
+  519  git status
+  520  git add -A 
+  521  git commit -m "Cleaned up files, prepped for committing to main"
+  522  git push origin rishi
+  523  git checkout main
+  524  git push origin main 
+  525  git checkout rishi
+  526  rm app_v2.py
+  527  git checkout rishi
+  528  git checkout main
+  529  git pull origin rishi
+  530  cd ..
+  531  git clone https://github.com/Rishi-Prasadha/Austin-Zillow-Airbnb-Analysis-Application.git
+  532  cd Austin-Zillow-Airbnb-Analysis-Application
+  533  mkdir rishi
+  534  git status
+  535  git add -A
+  536  cd Desktop/FinTech-Workspace/RICE-Projects/Austin-Zillow-Airbnb-Analysis-Application
+  537  git status
+  538  git commit -m 'Added a folder for Rishi's working files. Moved finished/currently working files from old repo to this new repo'\ngit commit -m "Added a folder for Rishi's working files. Moved finished/currently working files from old repo to this new repo"\n\n\n\n\n\n\n
+  539  git commit -m "Added a folder for Rishi's working files. Moved finished/currently working files from old repo to this new repo"
+  540  git push origin main
+  541  git pull origin main
+  542  cd Desktop/FinTech-Workspace/RICE-Projects/Austin-Zillow-Airbnb-Analysis-Application
+  543  git status
+  544  git commit -m "Added a folder for Rishi's files. Added all finished/currently working files from old repo to this new repo"
+  545  git push origin main
+  546  /usr/local/bin/python3 /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-Projects/Austin-Zillow-Airbnb-Analysis-Application/rishi/utils/utils_v2.py
+  547  git pull origin main
+  548  cd RICE-Projects/Austin_Zillow_Airbnb_Analysis_Application
+  549  conda activate dev
+  550  cd .. 
+  551  cd ..
+  552  cd Desktop
+  553  cd FinTech-Workspace/RICE-p
+  554  cd FinTech-Workspace/RICE-Projects
+  555  git clone https://github.com/Rishi-Prasadha/Austin_Zillow_Airbnb_Analysis_Application.git
+  556  cd Austin_Zillow_Airbnb_Analysis_Application
+  557  git status
+  558  git add -A
+  559  git commit -m "Mostly finished utils.py and calculations.py. Save for backup"
+  560  git push origin main
+  561  /usr/local/bin/python3 /Users/RishiPrasadha/Desktop/FinTech-Workspace/RICE-Projects/Austin_Zillow_Airbnb_Analysis_Application/rishi/utils/utils_v2.py
+  562  git add -A
+  563  git commit -m "Updated calculations code, added slightly processed dataframe finishing up app.py"
+  564  git push origin main
+  565  git add -A
+  566  git commit -m "Added a function to ask for the number of nights for the user"
+  567  git push origin main
+  568  git add -A
+  569  cd Desktop/FinTech-Workspace/RICE-Projects/Austin_Zillow_Airbnb_Analysis_Application
+  570  git commit -m "final changes for the evening"
+  571  git push origin main
+  572  git commit -m "final changes for the evening"
+  573  git add -A
+  574  git commit -m "final changes for the evening"
+  575  git push origin main
+  576  conda activate dev
+  577  python app_v2.py
+  578  cd rishi
+  579  python app_v2.py
+  580  cd ..
+  581  git status
+  582  git add -A
+  583  git commit -m "Debugged import, debugging functionality"
+  584  git push origin main
+  585  git pull
+  586  cd Desktop/FinTech-Workspace/RICE-Projects/Austin_Zillow_Airbnb_Analysis_Application
+  587  git pull
+  588  git status
+  589  git add -A
+  590  git commit -m "Debugged import, debugging full functionality"
+  591  git push origin main
+  592  git pull 
+  593  cd Desktop/FinTech-Workspace/RICE-Projects/Austin_Zillow_Airbnb_Analysis_Application
+  594  git pull 
+  595  git pull origin main
+  596  git push origin main
+  597  git pull
+  598  git commit -m "Debugged imports, debugging full functionality now
+  599  git commit -m "Debugged imports, debugging full functionality now"
+  600  git push o
+  601  git push 
+  602  cd rishi
+  603  python app_v2.py
+  604  conda activate dev
+  605  python app_v2.py
+  606  cd ..
+  607  git add -A
+  608  git commit -m "Debugged some functions in utils"
+  609  git push origin main
+  610  cd Desktop/FinTech-Workspace/RICE-Projects/Austin_Zillow_Airbnb_Analysis_Application
+  611  git status
+  612  git add -A
+  613  git commit -m "Added a new recession analysis between 2007-2010 with linear regression"
+  614  git push origin main
+  615  git status
+  616  git add -A
+  617  git commit -m "Edited final dataframes, edited the conclusion and intro markdowns"
+  618  git push origin main
+  619  ls
+  620  cd rishi
+  621  conda activate dev
+  622  jupyter lab
+  623  cd ..
+  624  cd A
+  625  cd Austin_Zillow_Airbnb_Analysis_Application
+  626  git add -A
+  627  git commit -m "Added graphs to both recession and overall analysis"
+  628  git push origin main
+  629  git pull
+  630  git push origin main
+  631  git pull
+  632  git status
+  633  git commit -m "Quinn's files updated on my end"
+  634  git push origin main
+  635  git status
+  636  git pull
+  637  git add -A
+  638  git commit -m "Added to README"
+  639  git push origin main
+  640  git status
+  641  git push origin main
+  642  git pull
+  643  git push origin main
+  644  cd ..
+  645  conda activate dev
+  646  conda list sci-kit learn
+  647  conda list scikit-learn
+  648  conda list hvplot
+  649  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  650  git pull
+  651  cd Desktop/FinTech-Workspace/RICE-VIRT-FIN-PT-06-2022-U-B
+  652  git pull
+  653  cd ..
+  654  cd RICE-VIRT-FIN-PT-06-2022-U-B-LOCAL
+  655  conda activate dev
+  656  jupyter lab
+  657  cd ..
+  658  cd Module_Challenges
+  659  git clone https://github.com/Rishi-Prasadha/RICE-FINTECH-10_Challenge.git
+  660  cd RICE-FINTECH-10_Challenge
+  661  git add -A
+  662  git commit -m "Added the starter code and did over half of the assignment"
+  663  git push origin main
+  664  git add -A
+  665  git commit -m "Finished everything except for composite plots"
+  666  git push origin main
+  667  cd ..
+  668  cd RICE-VIRT-FIN-PT-06-2022-U-B
+  669  git pull
+  670  cd ../Module_Practice
+  671  mkdir Module_11
+  672  cd ..
+  673  cd RICE-VIRT-FIN-PT-06-2022-U-B-LOCAL
+  674  cd 11-Time-Series-Analysis
+  675  conda activate dev
+  676  jupyter lab
+  677  cd ..
+  678  cd ../Module_Challenges/RICE-FINTECH-10_Challenge
+  679  git add -A
+  680  git commit -m "Finished the last 2 datasets, answered questions"
+  681  git push origin main
+  682  git status
+  683  git add -A
+  684  git commit -m "added a README"
+  685  git push origin main
+  686  git add -A
+  687  git commit -m "Fixed some mistakes in using the nonscaled dataframe"
+  688  git push origin main
