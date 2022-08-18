@@ -1,4 +1,4 @@
-# ETF Analyzer and Web Application
+# K-Means Clustering, PCA Analysis on Cryptocurrency Returns
 
 This application extensively uses the sklearn library, particularly K-Means clustering and PCA. It was created to run K-Means clustering on various cryptocurrencies and their price changes along different timeframes. In addition to K-Means clustering, this program explores simplifying higher dimensionality datasets with PCA analysis. 
 
